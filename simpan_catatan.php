@@ -19,5 +19,5 @@ fclose($file);
 ?>
    <script type="text/javascript">
             alert('Data Berhasil Tersimpan.');
-            window.location.assign('dashboard.php?url=catatan_perjalanan');
+            window.location.assign('catatan_anda.php');
         </script> 

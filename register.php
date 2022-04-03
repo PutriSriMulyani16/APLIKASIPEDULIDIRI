@@ -49,9 +49,6 @@
             <div class="row h-100 align-items-center justify-content-center" style="min-height: 100vh; background-color:#417cd3">
                 <div class="col-12 col-sm-8 col-md-6 col-lg-5 col-xl-4">
                     <div class="bg-light rounded p-4 p-sm-5 my-4 mx-3">
-                        <!-- <div class="d-flex align-items-center justify-content-between mb-3">
-                                <h3 class="text-primary">Register</h3>
-                        </div> -->
                         <div class="text-center mb-4 mt-2"> <img src="img/LOGO CAPER 2.png" width="40%" > </h3></div>
                                 <h4 class="text-primary  text-center"></i>Peduli Diri - Catatan Perjalanan</h4>  
                         <form class="dashboard"  method="post" action="proses_register.php">    
