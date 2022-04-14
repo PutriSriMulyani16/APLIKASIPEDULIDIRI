@@ -4,7 +4,7 @@ $nama_lengkap   = $_POST['nama_lengkap'];
 
 if(strlen($nik) !=16){
     echo"<script>
-    alert('NIK Yang dimasukan harus 16 digit');
+    alert('NIK Kurang Dari 16 digit');
     window.location.assign('register.php')
     </script>";
     die;

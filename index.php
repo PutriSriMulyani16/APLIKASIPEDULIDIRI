@@ -3,13 +3,13 @@
 <?php session_start(); ?>
 <head>
     <meta charset="utf-8">
-    <title>Catatan Perjalanan - Login</title>
+    <title>Peduli Diri - Login</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
 
     <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
+    <link rel="icon" href="img/LOGO CAPER 2.png"  type="image/png">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -47,7 +47,7 @@
             <div class="row h-100 align-items-center justify-content-center" style="min-height: 100vh; background-color:#417cd3">
                 <div class="col-12 col-sm-8 col-md-6 col-lg-5 col-xl-4">
                     <div class="bg-light rounded p-4 p-sm-5 my-4 mx-3">
-                         <div class="text-center mb-4 mt-2">   <img src="img/LOGO CAPER 2.png" width="40%" > </div>
+                         <div class="text-center mb-4 mt-2">   <img src="img/LOGO CAPER 2.png" width="40%" > </div> 
                          <div><h4 class="text-primary  text-center"></i>Peduli Diri - Catatan Perjalanan</h4> </div>
                          
                      <form class="dashboard"  method="post" action="proses_login.php">
